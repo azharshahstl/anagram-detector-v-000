@@ -15,7 +15,7 @@ class Anagram
         @@all << w
       end
     end
-    @all
+   @@all
   end
   
   
